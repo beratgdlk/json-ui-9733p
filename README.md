@@ -1,4 +1,4 @@
-# JSON UI 9733
+# JSON UI 9733 - OnlyJS
 
 **JSON UI 9733** is a web-based application designed to visualize and manage JSON data with an intuitive and user-friendly interface. This tool allows developers, data analysts, and business users to work with JSON data in a more accessible and structured way, enabling them to manipulate, edit, and visualize complex JSON structures directly in the browser.
 
